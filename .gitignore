@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+PLAN.md
+HAMS Data Science Challenge Brief and Plan.pdf
